@@ -1,7 +1,6 @@
 # 100 Days of Code - Learn Python
 
-Welcome to the 100 Days of Code series, where anyone can learn Python from start to finish!!!
-This 100 days of code series will help you learn python from starting to the end. [Click Here](https://tinyurl.com/100daysofcodecwh)
+Welcome to the 100 Days of Code series, This code series will help you learn python from starting to the end. [Click Here](https://tinyurl.com/100daysofcodecwh)
 
 ## What is Python?
 
@@ -26,4 +25,4 @@ Python finds applications in various domains, including:
 
 ## Getting Started
 
-To get started with this 100 Days of Code series, simply follow the provided code examples and exercises. Each day, you'll learn new concepts and practice them in Python. Enjoy your coding journey!
+To get started with this 100 Days of Code series, simply follow the provided code examples and exercises. Each day, you'll learn new concepts and practice them in Python. Enjoy your coding journey!!!
