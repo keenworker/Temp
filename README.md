@@ -1,4 +1,4 @@
-# 100 Days of Code - Learn Python
+# [100 Days of Code - Learn Python](https://tinyurl.com/100daysofcodecwh)
 
 Welcome to the 100 Days of Code series, where you'll learn Python from start to finish!
 
