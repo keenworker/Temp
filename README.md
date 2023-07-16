@@ -1,6 +1,6 @@
-Document Title: MONGODB UPDATE & FILTERIZATION
+## Document Title: MONGODB UPDATE & FILTERIZATION
 
-1) Updating documents in MongoDB:
+# 1) Updating documents in MongoDB:
 
 a) `updateOne()` method:
 Syntax: `db.collection_name.updateOne(filter, update, options)`
