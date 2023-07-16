@@ -1,6 +1,6 @@
-## Document Title: MONGODB UPDATE & FILTERIZATION
+# Document Title: MONGODB UPDATE & FILTERIZATION
 
-# 1. Updating documents in MongoDB:
+## 1. Updating documents in MongoDB:
 
 a) `updateOne()` method:
 Syntax: `db.collection_name.updateOne(filter, update, options)`
@@ -55,7 +55,7 @@ db.contacts.deleteMany(
 ```
 This command deletes multiple documents with the field `name` equal to `'Subham'` from the `contacts` collection.
 
-## 2.MongoDB Filterization Techniques:
+## 2. MongoDB Filterization Techniques:
 
 a) Basic filtering:
 Syntax: `db.collection_name.find(filter).pretty()`
